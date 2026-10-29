@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Raw download caches (re-created by engine/graph_loader.py and db/fetch_osm_restaurants.py)
+data/osm_cache/
+data/osm_gap_tiles/
+data/osm_poi_tiles/
+
+# Local runtime files (rebuild the DB with: python -m db.seed)
+data/*.log
+data/waydine.sqlite

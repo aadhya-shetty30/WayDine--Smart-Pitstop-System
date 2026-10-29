@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WayDine</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="brand">WayDine <span>food stops along your route, on your side of the road, open when you arrive</span></div>
+    <div id="dq" class="dq">Data: OpenStreetMap</div>
+  </header>
+
+  <main>
+    <aside>
+      <form id="trip-form">
+        <section class="card">
+          <h2>Where</h2>
+          <div class="row">
+            <label>From
+              <select id="src"></select>
+            </label>
+            <label>To
+              <select id="dst"></select>
+            </label>
+          </div>
+          <div class="row custom" id="custom-src" hidden>
+            <label>From latitude <input id="src-lat" type="number" step="any" placeholder="17.5330"></label>
+            <label>From longitude <input id="src-lon" type="number" step="any" placeholder="73.5150"></label>
+          </div>
+          <div class="row custom" id="custom-dst" hidden>
+            <label>To latitude <input id="dst-lat" type="number" step="any" placeholder="15.4909"></label>
+            <label>To longitude <input id="dst-lon" type="number" step="any" placeholder="73.8278"></label>
+          </div>
+          <div class="row locate">
+            <button type="button" id="locate-btn">&#128205; Use my location</button>
+            <label class="switch"><input id="live" type="checkbox"><span></span> Live tracking</label>
+          </div>
+          <div id="locate-status" class="locate-status" hidden></div>
+        </section>
+
+        <section class="card">
+          <h2>When</h2>
+          <div class="row">
+            <label>Date <input id="trip-date" type="date"></label>
+            <label>Departure <input id="dep" type="time" value="06:00" required></label>
+            <button type="button" id="now-btn" class="small">Now</button>
+          </div>
+        </section>
+
+        <section class="card">
+          <h2>Preferences</h2>
+          <div class="row">
+            <label>Food
+              <select id="veg">
+                <option value="any">Any</option>
+                <option value="veg">Veg only</option>
+                <option value="nonveg">Non-veg</option>
+              </select>
+            </label>
+            <label>Budget
+              <select id="budget">
+                <option value="high">Any</option>
+                <option value="medium">Up to medium</option>
+                <option value="low">Low</option>
+              </select>
+            </label>
+          </div>
+          <label class="switch"><input id="night" type="checkbox"><span></span> Night safety mode
+            <small>(switches on by itself between 22:00 and 05:00)</small></label>
+          <details class="advanced">
+            <summary>Advanced</summary>
+            <label>Already driven (km along the route)
+              <input id="cur-km" type="number" min="0" step="1" value="0"></label>
+          </details>
+        </section>
+
+        <button type="submit" class="primary big">Find food stops</button>
+      </form>
+
+      <div id="summary" class="summary" hidden></div>
+      <div id="empty" class="empty-state">
+        <b>Where are you headed?</b>
+        Choose your route, or tap <b>&#128205; Use my location</b> if you are already on NH66,
+        then <b>Find food stops</b>. WayDine only suggests places that are ahead of you,
+        on your side of the road, open when you get there, and serving the right meal.
+      </div>
+
+      <div id="results" hidden>
+      <nav class="tabs">
+        <button data-tab="top" class="active">Top 5</button>
+        <button data-tab="timeline">Trip plan</button>
+        <button data-tab="rejected">Rejected</button>
+      </nav>
+      <section id="tab-top" class="tab active"></section>
+      <section id="tab-timeline" class="tab"></section>
+      <section id="tab-rejected" class="tab"></section>
+      </div>
+    </aside>
+
+    <div class="map-wrap">
+      <div id="banners"></div>
+      <div id="map"></div>
+      <div class="legend">
+        <span><i class="dot route"></i>Route</span>
+        <span><i class="dot ok"></i>Recommended</span>
+        <span><i class="dot top"></i>Top 5</span>
+        <span><i class="dot no"></i>Rejected</span>
+        <span><i class="dot gap"></i>Food gap</span>
+      </div>
+      <div id="loading" hidden>Planning route&hellip;</div>
+    </div>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

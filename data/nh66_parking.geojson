@@ -1,0 +1,3409 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "node/2286658839",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5443741,
+     17.2247095
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "node/4575048840",
+    "name": "Penha de Franca Hall Parking Spot",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.842852,
+     15.5094024
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "node/5430611621",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.1234215,
+     18.992098
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "node/5430611623",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.1240438,
+     18.9923453
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "node/5430611624",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.123793,
+     18.9924328
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "node/5430611625",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.1244703,
+     18.9925026
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "node/5430611626",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.1244475,
+     18.9926712
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/153178987",
+    "name": "Mapusa Taxi Stand Parking",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8104272,
+     15.5900543
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/153179033",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8103577,
+     15.5898495
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/560328501",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.1108418,
+     18.9859858
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/560328502",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": "surface",
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.1207184,
+     18.9891693
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/573919373",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.1249762,
+     18.9900833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/621256892",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.82703,
+     15.4979609
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/658699081",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8382603,
+     15.4960337
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/785029249",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8171923,
+     15.4939615
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/809433984",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.1326993,
+     18.96887
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1086893548",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8328144,
+     15.5266828
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1153045516",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8097833,
+     15.5893347
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1155270343",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8347393,
+     15.5091739
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1155877318",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8327203,
+     15.4995386
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1155891465",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8256405,
+     15.4949922
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1156116148",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8337982,
+     15.4963315
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1156650644",
+    "name": "Inox Parking",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8203902,
+     15.4984775
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1156762023",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8147529,
+     15.4911993
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1156779535",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.829834,
+     15.4972256
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1181994493",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8055067,
+     15.5955591
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1181994506",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8076597,
+     15.6007472
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1182078628",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8186273,
+     15.5896838
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1313069948",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8055945,
+     15.584705
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1313272684",
+    "name": "Car Parking",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8090342,
+     15.5881737
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1315256439",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8348813,
+     15.4955201
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1315256447",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8088844,
+     15.5912152
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1323667008",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.821111,
+     15.4857955
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1323689603",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": "multi-storey",
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8363209,
+     15.4989104
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1340007291",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8352249,
+     15.5156898
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1340217084",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8341973,
+     15.4974313
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1340232021",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8346358,
+     15.4944911
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1340240343",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8351827,
+     15.4973269
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1340245545",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8375419,
+     15.4974195
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1340245555",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8369579,
+     15.4959222
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1340282745",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8061886,
+     15.5909279
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1340334260",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8334247,
+     15.4973335
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1340334264",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8337229,
+     15.4962553
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1340334267",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.833667,
+     15.4961556
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1340334268",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8339283,
+     15.4963639
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1340334271",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.833922,
+     15.4972524
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1340858231",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8079674,
+     15.6010298
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1342095697",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8144652,
+     15.5887775
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1342095698",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8157434,
+     15.5890849
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1342925374",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8105771,
+     15.6037078
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1350828523",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8195611,
+     15.5902155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1351987046",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8179248,
+     15.5898176
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1351987050",
+    "name": "Church Parking",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.81885,
+     15.5892574
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1352333617",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8297384,
+     15.5203406
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1352333620",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8278097,
+     15.5255206
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1355691930",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8203637,
+     15.5967713
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1356312714",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8263185,
+     15.549016
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1356611398",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8372097,
+     15.51474
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1356611409",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8355601,
+     15.5124021
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1356611426",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8377644,
+     15.5156262
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1356629331",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8329932,
+     15.5169164
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1356629332",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8325185,
+     15.5170503
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1356629379",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8310544,
+     15.5234686
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1359023123",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8125199,
+     15.5907243
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1359513425",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.816784,
+     15.5892932
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1360542284",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.814481,
+     15.5909198
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1360549999",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8129259,
+     15.5910131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1360550010",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8124093,
+     15.590909
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1360657202",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8114504,
+     15.5893811
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1360657204",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8121879,
+     15.5891077
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1360657207",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8109669,
+     15.5872442
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1360657211",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8105188,
+     15.5879807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1360657218",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8104559,
+     15.5873848
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1360657223",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8136043,
+     15.5879651
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1360883894",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.808172,
+     15.5855576
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1360883896",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8085019,
+     15.5864571
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1360883904",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8266172,
+     15.6029928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1361059849",
+    "name": "Vhodekar Parking",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8275055,
+     15.6108428
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1363238344",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8173007,
+     15.5920704
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1366453066",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8193562,
+     15.5884498
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1375477016",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8225039,
+     15.600755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1376060703",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8150493,
+     15.5962156
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1377194431",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8070369,
+     15.5738524
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1381159794",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8040897,
+     15.5724301
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1387301452",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7324806,
+     15.9604271
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1387463745",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8067224,
+     15.5844681
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1409824109",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8238372,
+     15.6085565
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1409824110",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8238521,
+     15.6084435
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1410029402",
+    "name": "Galaxy Hospital Parking",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8130474,
+     15.6062252
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1410033832",
+    "name": "Blue Star Car Parking",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8118027,
+     15.608287
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1411213488",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8284337,
+     15.5005923
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1411213490",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.829345,
+     15.5004781
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1411213491",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8301116,
+     15.5004905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1411231399",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.825595,
+     15.5014768
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1412296203",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8182917,
+     15.5326939
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1423545716",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8170743,
+     15.5387057
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1423545720",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8178242,
+     15.5393385
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1423790999",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8199566,
+     15.5893014
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1423831780",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8255196,
+     15.6043058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1423831799",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8206217,
+     15.6042016
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1423831800",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8203333,
+     15.6043387
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1423831801",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8200126,
+     15.6041844
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1423914949",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8120847,
+     15.5875274
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1423914950",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.811931,
+     15.5870564
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1424541617",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8302182,
+     15.5283122
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1426550171",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8149656,
+     15.588719
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1426550172",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8157639,
+     15.5885145
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1449572844",
+    "name": "Rijim Private Parking",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8131709,
+     15.5875382
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1459841763",
+    "name": "Basement Paid Parking",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8221796,
+     15.498954
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1459841780",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8141551,
+     15.4888067
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1467191717",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8116802,
+     15.5890146
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1467796054",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8067765,
+     15.5910306
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1473494841",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8130095,
+     15.5888042
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1475249844",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8078762,
+     15.5845962
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1476493743",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8175547,
+     15.6034348
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1477398325",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8109119,
+     15.5933954
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1480386251",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8081278,
+     15.5954654
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1482400675",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8111924,
+     15.5867628
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1489499511",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.830805,
+     15.4960355
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1494367931",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": "surface",
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.244814,
+     18.2990826
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1494390230",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8155765,
+     15.5934208
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1494390237",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8149487,
+     15.5938637
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1494390238",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8146147,
+     15.5939314
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1494390239",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8147549,
+     15.5943675
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1494490553",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8119191,
+     15.5896096
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1495309604",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": "surface",
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.4106653,
+     17.7128988
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1502797180",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8263752,
+     15.5012518
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1517005578",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.808735,
+     15.5885766
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1517051226",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8066353,
+     15.5755468
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1517148612",
+    "name": "Bus Parking",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8094292,
+     15.5879513
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1517148613",
+    "name": "Bus Bay",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8092529,
+     15.5880646
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1517168158",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8096097,
+     15.5886375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1517168160",
+    "name": "Bus Parking Ground",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8096645,
+     15.5879911
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1518700255",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8083925,
+     15.5902446
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1523593818",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8048837,
+     15.5970141
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1524898189",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8156929,
+     15.4885811
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1545339136",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8288482,
+     15.5006672
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1547916158",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8353144,
+     15.4964346
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1547916160",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8348194,
+     15.4959586
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1547918937",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8347859,
+     15.4975101
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1550145816",
+    "name": "Porvorim Tempo Stand",
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8299337,
+     15.5207245
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1557808987",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8267979,
+     15.5249328
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1558288175",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8190162,
+     15.5522564
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1558288176",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.819094,
+     15.552436
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1558363522",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8275362,
+     15.5198401
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1569607331",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.83197,
+     15.4973733
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1569607332",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8316648,
+     15.4974611
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "osm_id": "way/1571653613",
+    "name": null,
+    "amenity": "parking",
+    "cuisine": null,
+    "diet:vegetarian": null,
+    "opening_hours": null,
+    "parking": null,
+    "capacity:car": null,
+    "lit": null,
+    "addr:full": null,
+    "addr:city": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8282224,
+     15.4988716
+    ]
+   }
+  }
+ ]
+}
