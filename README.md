@@ -50,6 +50,13 @@ Run the tests: `pytest` (fixture tests need no downloads; tests marked
 
 Run the demo in the terminal: `python demo.py`.
 
+### Deploy (Render.com, free)
+
+1. On render.com: **New + → Blueprint**, connect this GitHub repo. `render.yaml` does the rest:
+   it installs the requirements, seeds the SQLite DB from `data/` during the build, and starts uvicorn.
+2. You get an HTTPS URL, so **Use my location** also works on phones.
+3. The free plan sleeps after 15 min idle. The first request then takes about a minute to wake it.
+
 ---
 
 ## How a restaurant is judged
